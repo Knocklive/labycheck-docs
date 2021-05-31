@@ -1,5 +1,24 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [LICENCE](licence.md)
+* [Invite Bot](https://dsc.gg/labycheck)
+* [Source Code](https://github.com/Knocklive/labycheck/)
+
+## Commands
+
+* [Commands \(English\)](commands/commands-english.md)
+* [Commands \(German\)](commands/commands-german.md)
+
+## Instructions
+
+* [Cape / Bandana \(English\)](instructions/capes-en.md)
+* [Cape / Bandana \(German\)](instructions/capes-de.md)
+
+---
+
+* [Untitled](untitled.md)
+
+## Licence
+
+* [Disclaimer](licence/disclaimer.md)
 
