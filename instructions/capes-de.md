@@ -13,6 +13,6 @@ description: Hier siehst du wie du Capes & Bandanas von anderen Usern downloaden
 7. Nun kannst du die Datei öffnen :\)
 
 {% hint style="info" %}
-Du brauchst Hilfe? Adde' mich: Knocklive\#9999
+#### Du brauchst Hilfe? Adde' mich: Knocklive\#9999
 {% endhint %}
 
