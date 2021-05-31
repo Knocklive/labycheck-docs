@@ -6,8 +6,8 @@
 
 ## Commands
 
-* [Commands \(English\)](commands/commands-english.md)
-* [Commands \(German\)](commands/commands-german.md)
+* [Commands \(English\)](commands/en.md)
+* [Commands \(German\)](commands/de.md)
 
 ## Instructions
 
