@@ -1,7 +1,7 @@
 # Welcome
 
 {% hint style="info" %}
-## Click [here ](https://dsc.gg/labycheck)to invite the Bot
+## Click [here](https://dsc.gg/labycheck) to invite the Bot
 {% endhint %}
 
 ## What is LabyCheck?
