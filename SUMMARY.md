@@ -14,10 +14,6 @@
 * [Cape / Bandana \(English\)](instructions/capes-en.md)
 * [Cape / Bandana \(German\)](instructions/capes-de.md)
 
----
-
-* [Untitled](untitled.md)
-
 ## Licence
 
 * [Disclaimer](licence/disclaimer.md)
