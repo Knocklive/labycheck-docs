@@ -7,7 +7,7 @@ description: Here you can see how you can download a Cape / Bandana from other P
 1. Type `.cape <username>` on your Discord and click on the link the bot sends you. Of course you can do the same with `.bandana <username>`
 2. The download will start automatically.
 3. Go to your Downloads folder and make sure you have "File Extensions" enabled under View:
-4. ![](../.gitbook/assets/bild_2021-05-29_121726.png) 
+4. ![](../.gitbook/assets/bild_2021-05-29_121726%20%281%29.png) 
 5. Right-click on the downloaded file and select Rename.
 6. Add a `.png` at the end of the file name, so that it is now called e.g.
 
@@ -16,6 +16,6 @@ description: Here you can see how you can download a Cape / Bandana from other P
 7. Now you can open the file :\)
 
 {% hint style="info" %}
-#### You need help? Add me: Knocklive\#9999
+## You need help? Add me: Knocklive\#9999
 {% endhint %}
 
