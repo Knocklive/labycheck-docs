@@ -29,6 +29,12 @@ description: Hier siehst du alle Commands von LabyCheck
 ```
 
 ```c
+.shop
+
+# Zeigt dir die täglichen Emotes des Labymod Shops an
+```
+
+```c
 .cape <Username>
 
 # Downloadet das Cape eines Users

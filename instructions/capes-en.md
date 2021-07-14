@@ -16,6 +16,6 @@ description: Here you can see how you can download a Cape / Bandana from other P
 7. Now you can open the file :\)
 
 {% hint style="info" %}
-#### You need help? Add me: Knocklive\#9999
+## You need help? Add me: Knocklive\#9999
 {% endhint %}
 

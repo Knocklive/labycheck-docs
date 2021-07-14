@@ -18,3 +18,7 @@
 
 * [Disclaimer](licence/disclaimer.md)
 
+## NEWS / UPDATES <a id="news"></a>
+
+* [Shop Befehl](news/shop-befehl.md)
+
